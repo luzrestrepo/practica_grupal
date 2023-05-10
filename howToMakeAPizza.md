@@ -6,3 +6,8 @@ champñones
 salami
 jamon 
 pollo 
+piña
+sal
+ajo
+aceite de oliva 
+
