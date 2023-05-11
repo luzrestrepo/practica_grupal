@@ -11,3 +11,7 @@ sal
 ajo
 aceite de oliva 
 
+pollo 
+carne 
+
+
